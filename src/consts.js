@@ -1,6 +1,6 @@
 const consts = {
-    API_URL: 'https://react-my-money-backend.herokuapp.com/api',
-    OAPI_URL: 'https://react-my-money-backend.herokuapp.com/oapi',
+    API_URL: 'https://backend-app-my-money.herokuapp.com/api',
+    OAPI_URL: 'https://backend-app-my-money.herokuapp.com/oapi',
 
     TOKEN_VALIDATED: 'TOKEN_VALIDATED',
     USER_FETCHED: 'USER_FETCHED',
