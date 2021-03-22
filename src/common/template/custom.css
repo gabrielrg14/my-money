@@ -1,0 +1,18 @@
+.main-footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+button.ml-5px {
+    margin-left: 5px;
+}
+
+.table-actions {
+    width: 150px;
+}
+
+select[readonly] {
+    pointer-events: none;
+    touch-action: none;
+}
