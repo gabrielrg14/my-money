@@ -29,7 +29,7 @@ class BillingCycleForm extends Component {
             <form onSubmit={handleSubmit}>
                 <div className="box-body">
                     <Field name="name" component={LabelAndInput} readOnly={readOnly}
-                        label="Nome" cols="12 4" placeholder="Informe o nome" /> 
+                        label="Nome" cols="12 4" placeholder="Informe o nome" />
                         
                     <Field name="month" component={LabelAndInput} readOnly={readOnly}
                         label="Mês" cols="12 4" placeholder="Informe o mês" type="number" /> 
